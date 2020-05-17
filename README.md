@@ -25,7 +25,8 @@ CS:GO Hack - Osiris Chinese version
 
 ### 下载
 
-[点击此处](https://github.com/djkcyl/CSGO-Hack-Osiris-Chinese-version/archive/master.zip)下载最新发布版
+[点击此处](https://github.com/djkcyl/CSGO-Hack-Osiris-Chinese-version/archive/master.zip)下载工具包
+[点击此处](https://github.com/djkcyl/CSGO-Hack-Osiris-Chinese-version/releases)下载外挂本体
 
 ### 使用
 
