@@ -41,7 +41,7 @@ CS:GO Hack - Osiris Chinese version
 ### 我的配置文件存在哪里？
 配置文件存在 `Documents` 的 `A60SENSE` 目录里 (`%USERPROFILE%\Documents\A60SENSE`). 配置文件采用可读未加密形式存储 (可以使用各类文本编辑器打开) ，在更新后你需要载入参数并重新保存参数，否则可能会丢失一些功能。
 
-### 使用海王会不会被封禁？
+### 使用冥王会不会被封禁？
 CSGO目前采用两套封禁机制
 1. ~~VAC封禁~~
 2. OW封禁（监管封禁）
