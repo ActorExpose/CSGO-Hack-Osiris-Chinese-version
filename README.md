@@ -1,4 +1,4 @@
-#  CSGO辅助 Osiris海王 汉化版
+#  CSGO辅助 Osiris冥王 汉化版
 CS:GO Hack - Osiris Chinese version
 
 ## 功能
@@ -21,7 +21,7 @@ CS:GO Hack - Osiris Chinese version
 ### 下载
 
 [点击此处](https://github.com/djkcyl/CSGO-Hack-Osiris-Chinese-version/archive/master.zip)下载工具包  
-[点击此处](https://github.com/djkcyl/CSGO-Hack-Osiris-Chinese-version/releases)下载最新版外挂本体
+[点击此处](https://github.com/djkcyl/CSGO-Hack-Osiris-Chinese-version/releases)下载最新版辅助本体
 
 ### 使用
 
@@ -46,6 +46,6 @@ CSGO目前采用两套封禁机制
 1. ~~VAC封禁~~
 2. OW封禁（监管封禁）
 
-###### 海王已经使用Bypass VAC功能关闭了VAC的检测，所以一旦被封禁则一定为ow封禁，如被ow封禁请检查自己的演技是否完善
+###### 冥王已经使用Bypass VAC功能关闭了VAC的检测，所以一旦被封禁则一定为ow封禁，如被ow封禁请检查自己的演技
 
 # vac不会放过任何一个作弊者
