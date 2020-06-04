@@ -27,7 +27,7 @@ CS:GO Hack - Osiris Chinese version
 
 1. 打开`VAC变脑瘫.exe`，会自动重启Steam并关闭vac系统防止被vac封禁
 2. 登录Steam账号进入CS:GO
-3. 打开`A60-Injector.exe`自动将`A60SENSE.dll`注入至CS:GO
+3. 打开`A60-Injector.exe`自动将`A60SENSE.dll`注入至CS:GO（请勿修改`A60SENSE.dll`的名字，因为注入器是定向注入，修改名字将导致注入器不生效）
 
 
 ## 常见问题
