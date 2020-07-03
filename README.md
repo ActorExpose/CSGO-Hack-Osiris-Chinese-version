@@ -49,3 +49,8 @@ CSGO目前采用两套封禁机制
 ###### 冥王已经使用Bypass VAC功能关闭了VAC的检测，所以一旦被封禁则一定为ow封禁，如被ow封禁请检查自己的演技
 
 # vac不会放过任何一个作弊者
+
+
+原地址：
+ `https://github.com/danielkrupinski/Osiris
+ https://github.com/danielkrupinski/VAC-Bypass-Loader`
