@@ -53,4 +53,5 @@ CSGO目前采用两套封禁机制
 
 原地址：
  `https://github.com/danielkrupinski/Osiris
- https://github.com/danielkrupinski/VAC-Bypass-Loader`
+ https://github.com/danielkrupinski/VAC-Bypass-Loader
+ https://github.com/AMATEURZ1337/load-lib-injector`
