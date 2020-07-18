@@ -36,7 +36,7 @@ CS:GO Hack - Osiris Chinese version
 在CS:GO窗口内按下键盘的 <kbd>INSERT</kbd> 键。
 
 ### 为什么注入后无法显示中文？
-此版本Osiris不支持在非中文环境的Windows以及精简版Windows下使用，如果一定要使用请安装[字体](https://github.com/djkcyl/CSGO-Hack-Osiris-Chinese-version/raw/master/SIMHEI.TTF)
+此版本Osiris不支持在非中文环境的Windows以及精简版Windows下使用，如果一定要使用请安装[字体](https://github.com/djkcyl/CSGO-Hack-Osiris-Chinese-version/raw/master/Deng.TTF)
 
 ### 我的配置文件存在哪里？
 配置文件存在 `Documents` 的 `A60SENSE` 目录里 (`%USERPROFILE%\Documents\A60SENSE`). 配置文件采用可读未加密形式存储 (可以使用各类文本编辑器打开) ，在更新后你需要载入参数并重新保存参数，否则可能会丢失一些功能。
