@@ -43,10 +43,8 @@ CS:GO Hack - Osiris Chinese version
 
 ### 使用冥王会不会被封禁？
 CSGO目前采用两套封禁机制
-1. ~~VAC封禁~~
+1. VAC封禁
 2. OW封禁（监管封禁）
-
-###### 冥王已经使用Bypass VAC功能关闭了VAC的检测，所以一旦被封禁则一定为ow封禁，如被ow封禁请检查自己的演技
 
 # vac不会放过任何一个作弊者
 
